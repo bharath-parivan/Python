@@ -1,4 +1,5 @@
-import numpy as np
+print("\t \t \t NAME: BHARATH PARIVAN \n\t \t \t USN: 1AY24AI018 \n\t \t \t SEC:'M'")
+ numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
