@@ -1,4 +1,4 @@
-print("\t \t \t NAME: ANEESH.P \n\t \t \t USN: 1AY24AI008 \n\t \t \t SEC:'M'")
+print("\t \t \t NAME: BHARATH PARIVAN \n\t \t \t USN: 1AY24AI018 \n\t \t \t SEC:'M'")
 
 import random
 print("\tROCK , PAPER , SCISSORS")
