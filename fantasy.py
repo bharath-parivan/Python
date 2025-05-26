@@ -12,3 +12,4 @@ def display_inventory(inv):
 def add_to_inventory(inv, loot):
     for item in loot:
         inv[item] = inv.get(item, 0) + 1
+display_inventory( inventory)
