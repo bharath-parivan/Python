@@ -34,3 +34,11 @@ def mul_time(time_obj, factor):
 def avg_pace(finishing_time, distance):
     """Returns average pace (time per unit distance)"""
     return mul_time(finishing_time, 1 / distance)
+# ----------- Example Usage -----------
+if __name__ == "__main__":
+    # Suppose you ran a 10-mile race in 1 hour 30 minutes (01:30:00)
+    finish_time = Time(1, 30, 0)
+    distance = 10 
+    print("Finishing Time:", finish_time)
+    pace = avg_pace(finish_time, distance)
+    print("Average Pace (per mile):", pace)
